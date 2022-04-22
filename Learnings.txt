@@ -1,0 +1,12 @@
+Merns stack project Learnings
+
+ProtectedRoute to rout after loading is done. the user is loaded after load the component
+
+03:14 Mail sender discribing
+
+INVALID LOGIN: 535-5.7.8 USERNAME AND PASSWORD NOT ACCEPTED. LEARN MORE 
+AT 535 5.7.8 HTTPS://SUPPORT.GOOGLE.COM/MAIL/?P=BADCREDENTIALS B16-20020A056A000CD000B004FADB6F0290SM3914806PFV.11 - GSMTP
+
+For Yahoo 3rd party attempts
+
+https://support.cdesoftware.com/kb/a1909/535-5_7_0-auth005-too-many-bad-auth-attempts-error-when-trying-to-send-email_.aspx
